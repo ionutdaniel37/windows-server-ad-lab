@@ -9,7 +9,7 @@ The purpose of this step was to prepare a Windows Server machine to act as a rel
 - Network mode: NAT
 
 ## Installation Notes
-Windows Server was installed from ISO in a virtual machine, similar to a standard Windows 10/11 installation.
+Windows Server was installed from ISO in a virtual machine, similar to a standard Windows 10 installation.
 
 ## Network Configuration
 The server was configured with a static IP address.
