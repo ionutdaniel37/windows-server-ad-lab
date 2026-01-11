@@ -22,3 +22,9 @@ The goal of this step was to deploy Active Directory Domain Services and create 
 - Verified domain lab.local exists
 - Verified DNS service is running
 - Verified SYSVOL and NETLOGON shares
+
+## Validation
+The following checks were performed:
+- Logged in using domain administrator account
+- Opened Active Directory Users and Computers
+- Verified DNS zone creation
