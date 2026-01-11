@@ -1,6 +1,6 @@
 # Lab Architecture
 
-The lab consists of a single Windows Server acting as a Domain Controller and a Windows 10 client joined to the domain.
+The lab consists of a single Windows Server acting as a Domain Controller and multiple Windows 10 clients joined to the domain.
 
 The Domain Controller provides:
 - Active Directory Domain Services
